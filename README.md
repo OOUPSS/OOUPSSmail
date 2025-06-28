@@ -25,6 +25,7 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 > ⚠️ Only Gmail addresses with `.com` domain are supported (e.g. `yourname@gmail.com`)
 
 ---
+
 ## 📹 Video Guide
 
 <p align="center">
@@ -33,6 +34,7 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
     <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/WtchYt.png?raw=true" alt="Watch on YouTube Button" width="220" style="margin: 0; padding: 0; display: block;" />
   </a>
 </p>
+
 ---
 
 ## 👤 Author
