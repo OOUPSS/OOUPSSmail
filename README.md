@@ -28,8 +28,8 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 
 ## 📹 Video Guide
 
-🎬 [Watch the video tutorial](https://your-video-guide-link.com)  
-*Coming soon*
+🎬 [Watch the video tutorial](https://youtu.be/t4nBpjHrVzs?si=5vIgxPapZfhPKx68)  
+
 
 ---
 
