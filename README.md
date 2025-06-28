@@ -28,7 +28,9 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 
 ## 📹 Video Guide
 
-🎬 [Watch the video tutorial](https://youtu.be/t4nBpjHrVzs?si=5vIgxPapZfhPKx68)  
+[![Custom Preview](https://github.com/OOUPSS/OOUPSSmail/blob/main/ytic.png?raw=true)](https://youtu.be/GChlI9eNX2I?si=wFXwWaGXsqK0L-9C)
+
+[![Watch on YouTube](https://img.shields.io/badge/▶️%20Watch%20on%20YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/GChlI9eNX2I?si=wFXwWaGXsqK0L-9C)
 
 
 ---
