@@ -1,4 +1,4 @@
-# ✉️ OOUPSSmail
+# ✉️ OOUPSSmail ✉️
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?logo=windows)
 ![Python](https://img.shields.io/badge/python-3.11+-yellow?logo=python&logoColor=white)
