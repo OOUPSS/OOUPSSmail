@@ -28,17 +28,15 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 
 ## 📹 Video Guide
 
-<p align="center">
-  <a href="https://youtu.be/GChlI9eNX2I?si=wFXwWaGXsqK0L-9C">
-    <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/ytic.png?raw=true" alt="YouTube Video Preview" width="640"/>
-  </a>
-</p>
+## 📹 Video Guide
 
 <p align="center">
   <a href="https://youtu.be/GChlI9eNX2I?si=wFXwWaGXsqK0L-9C">
+    <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/ytic.png?raw=true" alt="YouTube Preview" width="640"/><br/>
     <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/WtchYt.png?raw=true" alt="Watch on YouTube Button" width="220"/>
   </a>
 </p>
+
 
 
 
