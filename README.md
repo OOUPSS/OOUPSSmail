@@ -61,11 +61,25 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 
 ## 🛡️ Virus Scan
 
-This executable was scanned using VirusTotal and showed **0 threats detected**.  
-![VirusTotal Scan](https://github.com/OOUPSS/OOUPSSmail/blob/main/VirTot.png?raw=true)
+This executable was scanned using [VirusTotal](https://www.virustotal.com/) and received **4/72 detections**.
 
-**SHA256:** `4b9d7028f829d05add86cd73cd0949cd9fb42924e3dd0c70e3d569afe497e89a`  
-🔗 [View full scan on VirusTotal](https://www.virustotal.com/gui/file/4b9d7028f829d05add86cd73cd0949cd9fb42924e3dd0c70e3d569afe497e89a/detection)
+![VirusTotal Scan](https://github.com/OOUPSS/OOUPSSmail/blob/main/VirTot101.png?raw=true)
+
+**SHA256:** `9088274874f1ee332860302d747e0dda31f682f624307c2fde973e60d7e9adfc`  
+🔗 [View full scan on VirusTotal](https://www.virustotal.com/gui/file/9088274874f1ee332860302d747e0dda31f682f624307c2fde973e60d7e9adfc/detection)
+
+**Detected by:** 4 out of 72 antivirus engines  
+**Label:** `Trojan` *(generic match, usually a false positive)*
+
+> ⚠️ **Why this happens:**  
+> This is a **false positive** commonly seen with PyInstaller-packed `.exe` files.  
+> Some antivirus engines flag it because:
+> - It uses **PyInstaller**, which bundles all code and dependencies into a single `.exe`
+> - The file is **not digitally signed**
+> - It contains an **embedded icon and resources**, which resemble malware behavior
+> - It matches a **YARA rule for PyInstaller**, which only detects packaging — not malicious behavior
+
+This tool is 100% open-source and safe to use. You can review the full code in this repository.
 
 ## ⭐ Support
 
