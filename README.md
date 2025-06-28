@@ -1,5 +1,14 @@
 # ✉️ OOUPSSmail
 
+![Platform](https://img.shields.io/badge/platform-Windows-blue?logo=windows)
+![Python](https://img.shields.io/badge/python-3.11+-yellow?logo=python&logoColor=white)
+![PyQt6](https://img.shields.io/badge/GUI-PyQt6-%233377AA?logo=qt&logoColor=white)
+![License](https://img.shields.io/github/license/OOUPSS/OOUPSSmail)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-Scan%20Passed-brightgreen?logo=virustotal&logoColor=white)
+![Downloads](https://img.shields.io/github/downloads/OOUPSS/OOUPSSmail/total?color=brightgreen)
+![Release](https://img.shields.io/github/v/release/OOUPSS/OOUPSSmail?color=purple)
+
+
 **OOUPSSmail** is a sleek, neon-themed desktop app for generating thousands of Gmail aliases in one click.  
 Perfect for signups, filtering incoming emails, A/B testing, and keeping your primary inbox clean.
 
