@@ -50,6 +50,14 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 
 ---
 
+## 🛡️ Virus Scan
+
+This executable was scanned using VirusTotal and showed **0 threats detected**.  
+![VirusTotal Scan](https://github.com/OOUPSS/OOUPSSmail/blob/main/VirTot.png?raw=true)
+
+**SHA256:** `4b9d7028f829d05add86cd73cd0949cd9fb42924e3dd0c70e3d569afe497e89a`  
+🔗 [View full scan on VirusTotal](https://www.virustotal.com/gui/file/4b9d7028f829d05add86cd73cd0949cd9fb42924e3dd0c70e3d569afe497e89a/detection)
+
 ## ⭐ Support
 
 If you like the project, give it a ⭐ and share it with others — it helps the project grow!
