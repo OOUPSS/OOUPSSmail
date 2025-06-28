@@ -28,8 +28,6 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 
 ## 📹 Video Guide
 
-## 📹 Video Guide
-
 <p align="center">
   <a href="https://youtu.be/GChlI9eNX2I?si=wFXwWaGXsqK0L-9C">
     <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/ytic.png?raw=true" alt="YouTube Preview" width="640"/><br/>
