@@ -37,8 +37,7 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 
 **OOUPSS**
 
-- Telegram: [t.me/yourusername](https://t.me/yourusername)  
-- GitHub: [github.com/OOUPSS](https://github.com/OOUPSS)
+- Discord: `oouuppss`
 
 ---
 
