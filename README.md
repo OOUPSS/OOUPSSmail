@@ -25,19 +25,14 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 > ⚠️ Only Gmail addresses with `.com` domain are supported (e.g. `yourname@gmail.com`)
 
 ---
-
 ## 📹 Video Guide
 
 <p align="center">
-  <a href="https://youtu.be/GChlI9eNX2I?si=wFXwWaGXsqK0L-9C">
-    <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/ytic.png?raw=true" alt="YouTube Preview" width="640"/><br/>
-    <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/WtchYt.png?raw=true" alt="Watch on YouTube Button" width="220"/>
+  <a href="https://youtu.be/GChlI9eNX2I?si=wFXwWaGXsqK0L-9C" style="text-decoration: none;">
+    <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/ytic.png?raw=true" alt="YouTube Preview" width="640" style="margin: 0; padding: 0; display: block;" />
+    <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/WtchYt.png?raw=true" alt="Watch on YouTube Button" width="220" style="margin: 0; padding: 0; display: block;" />
   </a>
 </p>
-
-
-
-
 ---
 
 ## 👤 Author
