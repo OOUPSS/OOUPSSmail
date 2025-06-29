@@ -29,7 +29,7 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 
 ## 📥 Download
 
-**[⬇️ Download OOUPSSmail for Windows (EXE)](https://github.com/OOUPSS/OOUPSSmail/releases/latest/download/OUPSmail.exe)**
+**[⬇️ Download OOUPSSmail for Windows (EXE)](https://github.com/OOUPSS/OOUPSSmail/releases/download/v1.0.1/OOUPSSmail.exe)**
 
 > ⚠️ Only Gmail addresses with `.com` domain are supported (e.g. `yourname@gmail.com`)
 
