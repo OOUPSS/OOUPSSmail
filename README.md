@@ -45,7 +45,7 @@ Perfect for signups, filtering incoming emails, A/B testing, and keeping your pr
 
 <p align="center">
   <a href="https://youtu.be/t4nBpjHrVzs?si=rfVNEpDQ-PL9UnNT">
-    <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/WtchYt.png?raw=true" alt="Watch on YouTube Button" width="220" />
+    <img src="https://github.com/OOUPSS/OOUPSSmail/blob/main/youtube.png?raw=true" alt="Watch on YouTube Button" width="220" />
   </a>
 </p>
 
